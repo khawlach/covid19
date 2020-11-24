@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">covid19</string>
+    <string name="Bienvenu">Bienvenu</string>
+    <string name="covid19">covid19</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="connexion">connexion</string>
+
+</resources>
